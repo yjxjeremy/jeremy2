@@ -1,0 +1,51 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	/* 文本居中 */
+	text-align: center;
+}
+.box{
+	margin: 0 auto;
+	width: 700px;
+	height: 500px;
+}
+.header{
+	height: 100px;
+	background-color: #E4A9F3;
+}
+.nav{
+	height: 50px;
+	background-color: #90F183;
+}
+.center{
+	height: 300px;
+	width: 700px;
+}
+.left{
+	float: left;
+	width: 200px;
+	height: 300px;
+	background-color: #50E7EC;
+}
+.cent{
+	float: left;
+	width: 300px;
+	height: 300px;
+	background-color: #B2F4A1;
+}
+.right{
+	float: right;
+	width: 200px;
+	height: 300px;
+	background-color: #A1F1DC;
+}
+.footer{
+	float: left;
+	width: 700px;
+	height: 50px;
+	background-color: #FB93CA;
+}

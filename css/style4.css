@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	/* 文本居中 */
+	text-align: center;
+}
+.box{
+	margin: 0 auto;
+	width: 700px;
+	height: 500px;
+}
+.header{
+	height: 100px;
+	background-color: #F4AAD7;
+}
+.center{
+	height: 350px;
+	background-color:#56F2BA;
+}
+.left{
+	width: 200px;
+	height: 350px;
+	background-color: #ECAA92;
+}
+.right{
+	width: 600px;
+}
+.footer{
+	height: 50px;
+	background-color:#F5A9B9;
+}
